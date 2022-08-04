@@ -1,1 +1,1 @@
-practice for craeating a social website
+practice for craeating a social website.
